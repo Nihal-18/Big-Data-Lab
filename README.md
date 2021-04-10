@@ -2,5 +2,7 @@ Big-Data-Lab
 
 Lab submissions repository
 
-NIHAL M TODANKAR - J058
+J058 - NIHAL M TODANKAR 
+
+J047 - Rishabh Shetty
 
